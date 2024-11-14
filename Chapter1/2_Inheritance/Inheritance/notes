@@ -1,0 +1,12 @@
+parent (base , super)
+
+
+
+
+Inheritance
+i) Single level -> euta parent multiple child 
+ii) multi level-> class c-> class b-> class ->a
+
+
+ii) multiple-> euta child ko multiple parents (yo chai hudaina using class
+               It is only possible using interface

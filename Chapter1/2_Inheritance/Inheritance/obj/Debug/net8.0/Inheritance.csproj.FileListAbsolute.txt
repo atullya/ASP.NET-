@@ -1,0 +1,14 @@
+/home/atullya/Desktop/DotNet/Inheritance/bin/Debug/net8.0/Inheritance
+/home/atullya/Desktop/DotNet/Inheritance/bin/Debug/net8.0/Inheritance.deps.json
+/home/atullya/Desktop/DotNet/Inheritance/bin/Debug/net8.0/Inheritance.runtimeconfig.json
+/home/atullya/Desktop/DotNet/Inheritance/bin/Debug/net8.0/Inheritance.dll
+/home/atullya/Desktop/DotNet/Inheritance/bin/Debug/net8.0/Inheritance.pdb
+/home/atullya/Desktop/DotNet/Inheritance/obj/Debug/net8.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/atullya/Desktop/DotNet/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfoInputs.cache
+/home/atullya/Desktop/DotNet/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfo.cs
+/home/atullya/Desktop/DotNet/Inheritance/obj/Debug/net8.0/Inheritance.csproj.CoreCompileInputs.cache
+/home/atullya/Desktop/DotNet/Inheritance/obj/Debug/net8.0/Inheritance.dll
+/home/atullya/Desktop/DotNet/Inheritance/obj/Debug/net8.0/refint/Inheritance.dll
+/home/atullya/Desktop/DotNet/Inheritance/obj/Debug/net8.0/Inheritance.pdb
+/home/atullya/Desktop/DotNet/Inheritance/obj/Debug/net8.0/Inheritance.genruntimeconfig.cache
+/home/atullya/Desktop/DotNet/Inheritance/obj/Debug/net8.0/ref/Inheritance.dll

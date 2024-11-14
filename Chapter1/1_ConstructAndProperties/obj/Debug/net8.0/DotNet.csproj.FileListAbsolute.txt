@@ -1,0 +1,14 @@
+/home/atullya/Desktop/DotNet/bin/Debug/net8.0/DotNet
+/home/atullya/Desktop/DotNet/bin/Debug/net8.0/DotNet.deps.json
+/home/atullya/Desktop/DotNet/bin/Debug/net8.0/DotNet.runtimeconfig.json
+/home/atullya/Desktop/DotNet/bin/Debug/net8.0/DotNet.dll
+/home/atullya/Desktop/DotNet/bin/Debug/net8.0/DotNet.pdb
+/home/atullya/Desktop/DotNet/obj/Debug/net8.0/DotNet.GeneratedMSBuildEditorConfig.editorconfig
+/home/atullya/Desktop/DotNet/obj/Debug/net8.0/DotNet.AssemblyInfoInputs.cache
+/home/atullya/Desktop/DotNet/obj/Debug/net8.0/DotNet.AssemblyInfo.cs
+/home/atullya/Desktop/DotNet/obj/Debug/net8.0/DotNet.csproj.CoreCompileInputs.cache
+/home/atullya/Desktop/DotNet/obj/Debug/net8.0/DotNet.dll
+/home/atullya/Desktop/DotNet/obj/Debug/net8.0/refint/DotNet.dll
+/home/atullya/Desktop/DotNet/obj/Debug/net8.0/DotNet.pdb
+/home/atullya/Desktop/DotNet/obj/Debug/net8.0/DotNet.genruntimeconfig.cache
+/home/atullya/Desktop/DotNet/obj/Debug/net8.0/ref/DotNet.dll
