@@ -1,0 +1,15 @@
+/home/atullya/Desktop/DotNet/Chapter1/Untitled Folder/bin/Debug/net8.0/Untitled Folder
+/home/atullya/Desktop/DotNet/Chapter1/Untitled Folder/bin/Debug/net8.0/Untitled Folder.deps.json
+/home/atullya/Desktop/DotNet/Chapter1/Untitled Folder/bin/Debug/net8.0/Untitled Folder.runtimeconfig.json
+/home/atullya/Desktop/DotNet/Chapter1/Untitled Folder/bin/Debug/net8.0/Untitled Folder.dll
+/home/atullya/Desktop/DotNet/Chapter1/Untitled Folder/bin/Debug/net8.0/Untitled Folder.pdb
+/home/atullya/Desktop/DotNet/Chapter1/Untitled Folder/obj/Debug/net8.0/Untitled Folder.GeneratedMSBuildEditorConfig.editorconfig
+/home/atullya/Desktop/DotNet/Chapter1/Untitled Folder/obj/Debug/net8.0/Untitled Folder.AssemblyInfoInputs.cache
+/home/atullya/Desktop/DotNet/Chapter1/Untitled Folder/obj/Debug/net8.0/Untitled Folder.AssemblyInfo.cs
+/home/atullya/Desktop/DotNet/Chapter1/Untitled Folder/obj/Debug/net8.0/Untitled Folder.csproj.CoreCompileInputs.cache
+/home/atullya/Desktop/DotNet/Chapter1/Untitled Folder/obj/Debug/net8.0/Untitled Folder.sourcelink.json
+/home/atullya/Desktop/DotNet/Chapter1/Untitled Folder/obj/Debug/net8.0/Untitled Folder.dll
+/home/atullya/Desktop/DotNet/Chapter1/Untitled Folder/obj/Debug/net8.0/refint/Untitled Folder.dll
+/home/atullya/Desktop/DotNet/Chapter1/Untitled Folder/obj/Debug/net8.0/Untitled Folder.pdb
+/home/atullya/Desktop/DotNet/Chapter1/Untitled Folder/obj/Debug/net8.0/Untitled Folder.genruntimeconfig.cache
+/home/atullya/Desktop/DotNet/Chapter1/Untitled Folder/obj/Debug/net8.0/ref/Untitled Folder.dll

@@ -9,7 +9,7 @@ class Vehicle{
         this.brand=brand;
     }
     public void displayVehicle(){
-        Console.WriteLine("The reg no is "+reg+"and it's name is "+ name+ "and the brand is "+brand);
+        Console.WriteLine("The reg no is "+reg+" and it's name is "+ name+ " and the brand is "+brand);
     }
 }
 class Car:Vehicle{
@@ -18,6 +18,6 @@ class Car:Vehicle{
         this.mileage=mileage;
     }
     public void displayMiage(){
-        Console.WriteLine("The mileage of car is"+mileage);
+        Console.WriteLine("The mileage of car is "+mileage);
     }
 }

@@ -14,5 +14,16 @@ class Program
         c1.setMilage(34);
         c1.displayMiage();
 
+        Car c2=new Car();
+        c2.setVehicle(12321,"Car","Lamborgini");
+        c2.displayVehicle();
+
+        c2.setMilage(32);
+        c2.displayMiage();
+
+      if(  c1.setMilage(34) >    c2.setMilage(32)){
+        
+      }
+
     }
 }

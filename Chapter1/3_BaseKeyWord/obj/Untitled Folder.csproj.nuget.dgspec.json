@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/atullya/Desktop/DotNet/Chapter1/2_Inheritance/InheritenceExcersise/InheritenceExcersise.csproj": {}
+    "/home/atullya/Desktop/DotNet/Chapter1/Untitled Folder/Untitled Folder.csproj": {}
   },
   "projects": {
-    "/home/atullya/Desktop/DotNet/Chapter1/2_Inheritance/InheritenceExcersise/InheritenceExcersise.csproj": {
+    "/home/atullya/Desktop/DotNet/Chapter1/Untitled Folder/Untitled Folder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/atullya/Desktop/DotNet/Chapter1/2_Inheritance/InheritenceExcersise/InheritenceExcersise.csproj",
-        "projectName": "InheritenceExcersise",
-        "projectPath": "/home/atullya/Desktop/DotNet/Chapter1/2_Inheritance/InheritenceExcersise/InheritenceExcersise.csproj",
+        "projectUniqueName": "/home/atullya/Desktop/DotNet/Chapter1/Untitled Folder/Untitled Folder.csproj",
+        "projectName": "Untitled Folder",
+        "projectPath": "/home/atullya/Desktop/DotNet/Chapter1/Untitled Folder/Untitled Folder.csproj",
         "packagesPath": "/home/atullya/.nuget/packages/",
-        "outputPath": "/home/atullya/Desktop/DotNet/Chapter1/2_Inheritance/InheritenceExcersise/obj/",
+        "outputPath": "/home/atullya/Desktop/DotNet/Chapter1/Untitled Folder/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/atullya/.nuget/NuGet/NuGet.Config"

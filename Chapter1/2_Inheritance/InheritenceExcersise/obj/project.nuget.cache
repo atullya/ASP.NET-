@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SAZmSiW6XhIBJA59msy8c4ScDq8tdLuO/nxCk/ogHwoR5gYX9J7lW8XA1RFBYBFA/ijuVJS1IGTVshXs15gJgA==",
+  "dgSpecHash": "9DuCFriEF7hZVcRc0KzROWGrJqa+GW2n2OgjlAcREh5v0isDy3OexgogpBl2hi8sYbxMC8FOqG1kWjgC48sKQg==",
   "success": true,
-  "projectFilePath": "/home/atullya/Desktop/DotNet/InheritenceExcersise/InheritenceExcersise.csproj",
+  "projectFilePath": "/home/atullya/Desktop/DotNet/Chapter1/2_Inheritance/InheritenceExcersise/InheritenceExcersise.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
