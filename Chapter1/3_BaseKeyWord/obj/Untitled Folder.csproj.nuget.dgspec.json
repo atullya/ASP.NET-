@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/atullya/Desktop/DotNet/Chapter1/Untitled Folder/Untitled Folder.csproj": {}
+    "/home/atullya/Desktop/DotNet/Chapter1/3_BaseKeyWord/Untitled Folder.csproj": {}
   },
   "projects": {
-    "/home/atullya/Desktop/DotNet/Chapter1/Untitled Folder/Untitled Folder.csproj": {
+    "/home/atullya/Desktop/DotNet/Chapter1/3_BaseKeyWord/Untitled Folder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/atullya/Desktop/DotNet/Chapter1/Untitled Folder/Untitled Folder.csproj",
+        "projectUniqueName": "/home/atullya/Desktop/DotNet/Chapter1/3_BaseKeyWord/Untitled Folder.csproj",
         "projectName": "Untitled Folder",
-        "projectPath": "/home/atullya/Desktop/DotNet/Chapter1/Untitled Folder/Untitled Folder.csproj",
+        "projectPath": "/home/atullya/Desktop/DotNet/Chapter1/3_BaseKeyWord/Untitled Folder.csproj",
         "packagesPath": "/home/atullya/.nuget/packages/",
-        "outputPath": "/home/atullya/Desktop/DotNet/Chapter1/Untitled Folder/obj/",
+        "outputPath": "/home/atullya/Desktop/DotNet/Chapter1/3_BaseKeyWord/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/atullya/.nuget/NuGet/NuGet.Config"
