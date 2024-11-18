@@ -1,0 +1,15 @@
+/home/atullya/Desktop/DotNet/Chapter1/4_ExceptionHandling/bin/Debug/net8.0/4_ExceptionHandling
+/home/atullya/Desktop/DotNet/Chapter1/4_ExceptionHandling/bin/Debug/net8.0/4_ExceptionHandling.deps.json
+/home/atullya/Desktop/DotNet/Chapter1/4_ExceptionHandling/bin/Debug/net8.0/4_ExceptionHandling.runtimeconfig.json
+/home/atullya/Desktop/DotNet/Chapter1/4_ExceptionHandling/bin/Debug/net8.0/4_ExceptionHandling.dll
+/home/atullya/Desktop/DotNet/Chapter1/4_ExceptionHandling/bin/Debug/net8.0/4_ExceptionHandling.pdb
+/home/atullya/Desktop/DotNet/Chapter1/4_ExceptionHandling/obj/Debug/net8.0/4_ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+/home/atullya/Desktop/DotNet/Chapter1/4_ExceptionHandling/obj/Debug/net8.0/4_ExceptionHandling.AssemblyInfoInputs.cache
+/home/atullya/Desktop/DotNet/Chapter1/4_ExceptionHandling/obj/Debug/net8.0/4_ExceptionHandling.AssemblyInfo.cs
+/home/atullya/Desktop/DotNet/Chapter1/4_ExceptionHandling/obj/Debug/net8.0/4_ExceptionHandling.csproj.CoreCompileInputs.cache
+/home/atullya/Desktop/DotNet/Chapter1/4_ExceptionHandling/obj/Debug/net8.0/4_ExceptionHandling.sourcelink.json
+/home/atullya/Desktop/DotNet/Chapter1/4_ExceptionHandling/obj/Debug/net8.0/4_ExceptionHandling.dll
+/home/atullya/Desktop/DotNet/Chapter1/4_ExceptionHandling/obj/Debug/net8.0/refint/4_ExceptionHandling.dll
+/home/atullya/Desktop/DotNet/Chapter1/4_ExceptionHandling/obj/Debug/net8.0/4_ExceptionHandling.pdb
+/home/atullya/Desktop/DotNet/Chapter1/4_ExceptionHandling/obj/Debug/net8.0/4_ExceptionHandling.genruntimeconfig.cache
+/home/atullya/Desktop/DotNet/Chapter1/4_ExceptionHandling/obj/Debug/net8.0/ref/4_ExceptionHandling.dll
