@@ -1,0 +1,15 @@
+/home/atullya/Desktop/DotNet/Chapter1/Excerice/bin/Debug/net8.0/Excerice
+/home/atullya/Desktop/DotNet/Chapter1/Excerice/bin/Debug/net8.0/Excerice.deps.json
+/home/atullya/Desktop/DotNet/Chapter1/Excerice/bin/Debug/net8.0/Excerice.runtimeconfig.json
+/home/atullya/Desktop/DotNet/Chapter1/Excerice/bin/Debug/net8.0/Excerice.dll
+/home/atullya/Desktop/DotNet/Chapter1/Excerice/bin/Debug/net8.0/Excerice.pdb
+/home/atullya/Desktop/DotNet/Chapter1/Excerice/obj/Debug/net8.0/Excerice.GeneratedMSBuildEditorConfig.editorconfig
+/home/atullya/Desktop/DotNet/Chapter1/Excerice/obj/Debug/net8.0/Excerice.AssemblyInfoInputs.cache
+/home/atullya/Desktop/DotNet/Chapter1/Excerice/obj/Debug/net8.0/Excerice.AssemblyInfo.cs
+/home/atullya/Desktop/DotNet/Chapter1/Excerice/obj/Debug/net8.0/Excerice.csproj.CoreCompileInputs.cache
+/home/atullya/Desktop/DotNet/Chapter1/Excerice/obj/Debug/net8.0/Excerice.sourcelink.json
+/home/atullya/Desktop/DotNet/Chapter1/Excerice/obj/Debug/net8.0/Excerice.dll
+/home/atullya/Desktop/DotNet/Chapter1/Excerice/obj/Debug/net8.0/refint/Excerice.dll
+/home/atullya/Desktop/DotNet/Chapter1/Excerice/obj/Debug/net8.0/Excerice.pdb
+/home/atullya/Desktop/DotNet/Chapter1/Excerice/obj/Debug/net8.0/Excerice.genruntimeconfig.cache
+/home/atullya/Desktop/DotNet/Chapter1/Excerice/obj/Debug/net8.0/ref/Excerice.dll
