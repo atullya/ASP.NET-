@@ -1,0 +1,15 @@
+/home/atullya/Desktop/DotNet/Chapter1/Interface/bin/Debug/net8.0/Interface
+/home/atullya/Desktop/DotNet/Chapter1/Interface/bin/Debug/net8.0/Interface.deps.json
+/home/atullya/Desktop/DotNet/Chapter1/Interface/bin/Debug/net8.0/Interface.runtimeconfig.json
+/home/atullya/Desktop/DotNet/Chapter1/Interface/bin/Debug/net8.0/Interface.dll
+/home/atullya/Desktop/DotNet/Chapter1/Interface/bin/Debug/net8.0/Interface.pdb
+/home/atullya/Desktop/DotNet/Chapter1/Interface/obj/Debug/net8.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/atullya/Desktop/DotNet/Chapter1/Interface/obj/Debug/net8.0/Interface.AssemblyInfoInputs.cache
+/home/atullya/Desktop/DotNet/Chapter1/Interface/obj/Debug/net8.0/Interface.AssemblyInfo.cs
+/home/atullya/Desktop/DotNet/Chapter1/Interface/obj/Debug/net8.0/Interface.csproj.CoreCompileInputs.cache
+/home/atullya/Desktop/DotNet/Chapter1/Interface/obj/Debug/net8.0/Interface.sourcelink.json
+/home/atullya/Desktop/DotNet/Chapter1/Interface/obj/Debug/net8.0/Interface.dll
+/home/atullya/Desktop/DotNet/Chapter1/Interface/obj/Debug/net8.0/refint/Interface.dll
+/home/atullya/Desktop/DotNet/Chapter1/Interface/obj/Debug/net8.0/Interface.pdb
+/home/atullya/Desktop/DotNet/Chapter1/Interface/obj/Debug/net8.0/Interface.genruntimeconfig.cache
+/home/atullya/Desktop/DotNet/Chapter1/Interface/obj/Debug/net8.0/ref/Interface.dll
