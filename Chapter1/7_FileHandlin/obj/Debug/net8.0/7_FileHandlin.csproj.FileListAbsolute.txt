@@ -1,0 +1,15 @@
+/home/atullya/Desktop/DotNet/Chapter1/7_FileHandlin/bin/Debug/net8.0/7_FileHandlin
+/home/atullya/Desktop/DotNet/Chapter1/7_FileHandlin/bin/Debug/net8.0/7_FileHandlin.deps.json
+/home/atullya/Desktop/DotNet/Chapter1/7_FileHandlin/bin/Debug/net8.0/7_FileHandlin.runtimeconfig.json
+/home/atullya/Desktop/DotNet/Chapter1/7_FileHandlin/bin/Debug/net8.0/7_FileHandlin.dll
+/home/atullya/Desktop/DotNet/Chapter1/7_FileHandlin/bin/Debug/net8.0/7_FileHandlin.pdb
+/home/atullya/Desktop/DotNet/Chapter1/7_FileHandlin/obj/Debug/net8.0/7_FileHandlin.GeneratedMSBuildEditorConfig.editorconfig
+/home/atullya/Desktop/DotNet/Chapter1/7_FileHandlin/obj/Debug/net8.0/7_FileHandlin.AssemblyInfoInputs.cache
+/home/atullya/Desktop/DotNet/Chapter1/7_FileHandlin/obj/Debug/net8.0/7_FileHandlin.AssemblyInfo.cs
+/home/atullya/Desktop/DotNet/Chapter1/7_FileHandlin/obj/Debug/net8.0/7_FileHandlin.csproj.CoreCompileInputs.cache
+/home/atullya/Desktop/DotNet/Chapter1/7_FileHandlin/obj/Debug/net8.0/7_FileHandlin.sourcelink.json
+/home/atullya/Desktop/DotNet/Chapter1/7_FileHandlin/obj/Debug/net8.0/7_FileHandlin.dll
+/home/atullya/Desktop/DotNet/Chapter1/7_FileHandlin/obj/Debug/net8.0/refint/7_FileHandlin.dll
+/home/atullya/Desktop/DotNet/Chapter1/7_FileHandlin/obj/Debug/net8.0/7_FileHandlin.pdb
+/home/atullya/Desktop/DotNet/Chapter1/7_FileHandlin/obj/Debug/net8.0/7_FileHandlin.genruntimeconfig.cache
+/home/atullya/Desktop/DotNet/Chapter1/7_FileHandlin/obj/Debug/net8.0/ref/7_FileHandlin.dll
