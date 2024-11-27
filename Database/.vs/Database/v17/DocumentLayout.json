@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\Database\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE9EC0C-F9A1-46E1-9997-6860BEB36BC6}|Database\\Database.csproj|c:\\users\\acer\\source\\repos\\database\\database\\crudoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE9EC0C-F9A1-46E1-9997-6860BEB36BC6}|Database\\Database.csproj|solutionrelative:database\\crudoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE9EC0C-F9A1-46E1-9997-6860BEB36BC6}|Database\\Database.csproj|c:\\users\\acer\\source\\repos\\database\\database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE9EC0C-F9A1-46E1-9997-6860BEB36BC6}|Database\\Database.csproj|solutionrelative:database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "crudOperation.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Database\\Database\\crudOperation.cs",
+              "RelativeDocumentMoniker": "Database\\crudOperation.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Database\\Database\\crudOperation.cs",
+              "RelativeToolTip": "Database\\crudOperation.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwEgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:59:31.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\Database\\Database\\Program.cs",
+              "RelativeDocumentMoniker": "Database\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\Database\\Database\\Program.cs",
+              "RelativeToolTip": "Database\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:57:40.446Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
