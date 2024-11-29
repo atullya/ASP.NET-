@@ -59,3 +59,4 @@ C:\Users\acer\source\repos\Database\Database\obj\Debug\net8.0\refint\Database.dl
 C:\Users\acer\source\repos\Database\Database\obj\Debug\net8.0\Database.pdb
 C:\Users\acer\source\repos\Database\Database\obj\Debug\net8.0\Database.genruntimeconfig.cache
 C:\Users\acer\source\repos\Database\Database\obj\Debug\net8.0\ref\Database.dll
+C:\Users\acer\source\repos\Database\Database\obj\Debug\net8.0\Database.sourcelink.json
