@@ -36,14 +36,16 @@
         
         <asp:Label ID="l6" Text="Faculty" runat="server"></asp:Label>
         <asp:DropDownList ID="coun" runat="server">
-            <asp:ListItem Value="Select Your Country" Text="Select Your Country"></asp:ListItem>
-            <asp:ListItem Value="Nepal" Text="Nepal"></asp:ListItem>
-            <asp:ListItem Value="USA" Text="USA"></asp:ListItem>
-            <asp:ListItem Value="Other" Text="Other"></asp:ListItem>
+            <asp:ListItem Value="Select Your Faculty" Text="Select Your Faculty"></asp:ListItem>
+            <asp:ListItem Value="BIM">BIM></asp:ListItem>
+            <asp:ListItem Value="CSIT">CSIT</asp:ListItem>
+            <asp:ListItem Value="BCA" >BCA</asp:ListItem>
         </asp:DropDownList>
         <br />
         
         <asp:Button ID="btn1" Text="Submit" OnClick="btn_ans" runat="server" />
+        <asp:Label ID="l7" Text="Result" runat="server"></asp:Label>
+
     </form>
 </body>
 </html>

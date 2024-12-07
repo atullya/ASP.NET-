@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\WebFormDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE965416-F6BB-4CF0-9B80-1D1309BB36BC}|WebFormDemo\\WebFormDemo.csproj|c:\\users\\acer\\source\\repos\\webformdemo\\webformdemo\\atullya.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{CE965416-F6BB-4CF0-9B80-1D1309BB36BC}|WebFormDemo\\WebFormDemo.csproj|solutionrelative:webformdemo\\atullya.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{CE965416-F6BB-4CF0-9B80-1D1309BB36BC}|WebFormDemo\\WebFormDemo.csproj|c:\\users\\acer\\source\\repos\\webformdemo\\webformdemo\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE965416-F6BB-4CF0-9B80-1D1309BB36BC}|WebFormDemo\\WebFormDemo.csproj|solutionrelative:webformdemo\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE965416-F6BB-4CF0-9B80-1D1309BB36BC}|WebFormDemo\\WebFormDemo.csproj|c:\\users\\acer\\source\\repos\\webformdemo\\webformdemo\\atullya.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE965416-F6BB-4CF0-9B80-1D1309BB36BC}|WebFormDemo\\WebFormDemo.csproj|c:\\users\\acer\\source\\repos\\webformdemo\\webformdemo\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CE965416-F6BB-4CF0-9B80-1D1309BB36BC}|WebFormDemo\\WebFormDemo.csproj|solutionrelative:webformdemo\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE965416-F6BB-4CF0-9B80-1D1309BB36BC}|WebFormDemo\\WebFormDemo.csproj|C:\\Users\\acer\\source\\repos\\WebFormDemo\\webformdemo\\atullya.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE965416-F6BB-4CF0-9B80-1D1309BB36BC}|WebFormDemo\\WebFormDemo.csproj|solutionrelative:webformdemo\\atullya.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE965416-F6BB-4CF0-9B80-1D1309BB36BC}|WebFormDemo\\WebFormDemo.csproj|c:\\users\\acer\\source\\repos\\webformdemo\\webformdemo\\atullya.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CE965416-F6BB-4CF0-9B80-1D1309BB36BC}|WebFormDemo\\WebFormDemo.csproj|solutionrelative:webformdemo\\atullya.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\WebFormDemo\\WebFormDemo\\Login.aspx",
+              "RelativeDocumentMoniker": "WebFormDemo\\Login.aspx",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\WebFormDemo\\WebFormDemo\\Login.aspx",
+              "RelativeToolTip": "WebFormDemo\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-07T12:26:29.317Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -30,20 +48,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\WebFormDemo\\WebFormDemo\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "WebFormDemo\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\WebFormDemo\\WebFormDemo\\Login.aspx.cs",
+              "RelativeToolTip": "WebFormDemo\\Login.aspx.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowCwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:51:36.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Atullya.aspx.cs",
               "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\WebFormDemo\\WebFormDemo\\Atullya.aspx.cs",
               "RelativeDocumentMoniker": "WebFormDemo\\Atullya.aspx.cs",
               "ToolTip": "C:\\Users\\acer\\source\\repos\\WebFormDemo\\WebFormDemo\\Atullya.aspx.cs",
               "RelativeToolTip": "WebFormDemo\\Atullya.aspx.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T08:13:30.103Z",
+              "WhenOpened": "2024-12-06T05:27:52.687Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Atullya.aspx",
               "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\WebFormDemo\\WebFormDemo\\Atullya.aspx",
               "RelativeDocumentMoniker": "WebFormDemo\\Atullya.aspx",
